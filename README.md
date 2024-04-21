@@ -1,3 +1,3 @@
-#Lesson 2. The Magic of Conditional Statements.
+# Lesson 2. The Magic of Conditional Statements.
 
 Student: Elima
